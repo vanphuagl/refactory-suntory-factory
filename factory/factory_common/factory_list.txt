@@ -1,0 +1,172 @@
+<div class="c-facilities">
+    <div class="c-facilities__container">
+        <div class="c-facilities__wrapper">
+            <div class="c-facilities__title">
+                <h2>サントリーのものづくりを見学</h2>
+                <p>
+                    サントリーグループは、国内国外すべての自社生産工場で<br class="pc-only" />購入する電力の100%再生可能エネルギー化を達成しています。
+                </p>
+            </div>
+
+            <div class="c-facilities__list">
+                <div class="c-facilities__grid">
+                    <a href="/factory/tominooka/" class="c-facilities__items">
+                        <figure class="c-facilities__img">
+                            <img src="/factory/factory_common/img/factory_1909.webp" alt="登美の丘ワイナリー" width="1104" height="736" />
+                            <p>1909 -</p>
+                        </figure>
+
+                        <div class="c-facilities__text">
+                            <p class="sub">日本ワインのふるさと</p>
+                            <p class="main">登美の丘ワイナリー</p>
+                            <p class="province">山梨県</p>
+                        </div>
+                    </a>
+
+                    <a href="/factory/yamazaki/" class="c-facilities__items">
+                        <figure class="c-facilities__img">
+                            <img src="/factory/factory_common/img/factory_1923.webp" alt="山崎蒸溜所" width="1104" height="736" />
+                            <p>1923 -</p>
+                        </figure>
+
+                        <div class="c-facilities__text">
+                            <p class="sub">日本最古のモルトウイスキー蒸溜所</p>
+                            <p class="main">山崎蒸溜所</p>
+                            <p class="province">大阪府</p>
+                        </div>
+                    </a>
+
+                    <a href="/factory/musashino/" class="c-facilities__items">
+                        <figure class="c-facilities__img">
+                            <img src="/factory/factory_common/img/factory_1963.webp" alt="〈天然水のビール工場〉 武蔵野" width="1104" height="736" />
+                            <p>1963 -</p>
+                        </figure>
+
+                        <div class="c-facilities__text">
+                            <p class="sub">ザ・プレミアムモルツ発祥の地</p>
+                            <p class="main --special">
+                                〈天然水のビール工場〉 武蔵野
+                            </p>
+                            <p class="province">東京都</p>
+                        </div>
+                    </a>
+
+                    <a href="/factory/kyoto/" class="c-facilities__items">
+                        <figure class="c-facilities__img">
+                            <img src="/factory/factory_common/img/factory_1969.webp" alt="〈天然水のビール工場〉 京都" width="1104" height="736" />
+                            <p>1969 -</p>
+                        </figure>
+
+                        <div class="c-facilities__text">
+                            <p class="sub">豊かな水と自然に恵まれた都</p>
+                            <p class="main --special">
+                                〈天然水のビール工場〉 京都
+                            </p>
+                            <p class="province">京都府</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="c-facilities__grid --special">
+                    <div class="c-facilities__group">
+                        <div class="c-facilities__box --box1">
+                            <p>白州の森・未来を育む森林公園工場</p>
+                        </div>
+
+                        <div class="c-facilities__flex">
+                            <a href="/factory/hakushu/" class="c-facilities__items">
+                                <figure class="c-facilities__img">
+                                    <img src="/factory/factory_common/img/factory_1973.webp" alt="白州蒸溜所" width="1104" height="736" />
+                                    <p>1973 -</p>
+                                </figure>
+
+                                <div class="c-facilities__text">
+                                    <p class="sub">鳥たちが集う森の蒸溜所</p>
+                                    <p class="main">白州蒸溜所</p>
+                                    <p class="province">山梨県</p>
+                                </div>
+                            </a>
+
+                            <a href="/factory/water/" class="c-facilities__items">
+                                <figure class="c-facilities__img">
+                                    <img src="/factory/factory_common/img/factory_1996.webp" alt="天然水 南アルプス白州工場" width="1104" height="736" />
+                                    <p>1996 -</p>
+                                </figure>
+
+                                <div class="c-facilities__text">
+                                    <p class="sub">世界に誇る水の山</p>
+                                    <p class="main">
+                                        天然水 南アルプス白州工場
+                                    </p>
+                                    <p class="province">山梨県</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="c-facilities__notgroup">
+                        <div class="c-facilities__col">
+                            <a href="/factory/kyushu-kumamoto/" class="c-facilities__items">
+                                <figure class="c-facilities__img">
+                                    <img src="/factory/factory_common/img/factory_2003_2.webp" alt="天然水 熊本工場" width="1104" height="736" />
+                                    <p>2003 -</p>
+                                </figure>
+
+                                <div class="c-facilities__text">
+                                    <p class="sub">天然水とビールの<br class="sp-only">ハイブリッド工場</p>
+                                    <p class="main">
+                                        九州熊本工場
+                                    </p>
+                                    <p class="province">熊本県</p>
+                                </div>
+                            </a>
+
+                            <a href="/factory/okudaisen/" class="c-facilities__items">
+                                <figure class="c-facilities__img">
+                                    <img src="/factory/factory_common/img/factory_2008.webp" alt="天然水 奥大山ブナの森工場" width="1104" height="736" />
+                                    <p>2008 -</p>
+                                </figure>
+        
+                                <div class="c-facilities__text">
+                                    <p class="sub">自然エネルギーを<br class="sp-only">利用した環境工場</p>
+                                    <p class="main">
+                                        天然水 奥大山ブナの森工場
+                                    </p>
+                                    <p class="province">鳥取県</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="c-facilities__grid">
+                    <a href="/factory/kitaalps/" class="c-facilities__items">
+                        <figure class="c-facilities__img">
+                            <img src="/factory/factory_common/img/factory_2022.webp" alt="天然水 北アルプス信濃の森工場" width="1104" height="736" />
+                            <p>2022 -</p>
+                        </figure>
+
+                        <div class="c-facilities__text">
+                            <p class="sub">
+                                五感で感じる体験型施設
+                            </p>
+                            <p class="main">
+                                天然水 北アルプス<br class="sp-only">信濃の森工場
+                            </p>
+                            <p class="province">長野県</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <a href="/factory/" class="c-facilities__bnr">
+                <figure>
+                    <img src="/factory/factory_common/img/bnr_factorip.webp" class="pc-only"
+                        alt="サントリー工場見学オフィシャルサイト ファクトリップ" />
+                    <img src="/factory/factory_common/img/bnr_factorip_sp.webp" class="sp-only"
+                        alt="サントリー工場見学オフィシャルサイト ファクトリップ" />
+                </figure>
+            </a>
+        </div>
+    </div>
+</div>

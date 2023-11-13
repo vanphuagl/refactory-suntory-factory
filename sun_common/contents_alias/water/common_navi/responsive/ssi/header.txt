@@ -1,0 +1,22 @@
+<div id="suntorySubCommonHeader">
+
+<div id="suntoryPcSubCommonHd"><div id="suntoryPcSubCommonHd_in">
+<ul class="sub_hd_nav">
+<li class="sub_hd_nav_01"><a href="http://www.suntory.co.jp/softdrink/" target="_top">サントリー食品インターナショナルトップ</a></li>
+<li class="sub_hd_nav_02"><a href="http://www.suntory.co.jp/water/" target="_top">ミネラルウォーター一覧</a></li>
+<li>
+<div id='div-gpt-ad-1469518796001-0' style="min-height:23px; min-width:174px;">
+    <script src="https://ssl1.suntory.co.jp/sun_common/adserver/gpt_town.js"></script>
+    <script src="//www.suntory.co.jp/sun_common/contents_alias/water/common_navi/responsive/js/common_navi_lnk.js"></script>
+    <script type='text/javascript'>
+        makeSBFCommonLnk();
+    </script>
+</div>
+</li>
+</ul>
+<p class="sub_hd_logo"><a href="http://www.suntory.co.jp/softdrink/" target="_top">SUNTORY BEVERAGE &amp; FOOD</a></p>
+</div></div><!--/suntoryPcSubCommonHd-->
+
+<div id="suntorySpSubCommonHd">
+</div><!--/suntorySpSubCommonHd-->
+</div><!--/suntorySubCommonHeader-->

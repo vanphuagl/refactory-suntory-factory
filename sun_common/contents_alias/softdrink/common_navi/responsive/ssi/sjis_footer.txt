@@ -1,0 +1,15 @@
+<div id="suntorySubCommonFooter">
+
+<div id="suntoryPcSubCommonFt"><div id="suntoryPcSubCommonFt_in">
+<p class="sub_ft_logo"><a href="http://www.suntory.co.jp/softdrink/" target="_top">SUNTORY BEVERAGE &amp; FOOD</a></p>
+<ul class="sub_ft_nav">
+<li class="sub_ft_nav_01"><a href="http://www.suntory.co.jp/softdrink/" target="_top">サントリー食品インターナショナルトップ</a></li>
+<li class="sub_ft_nav_02"><a href="http://www.suntory.co.jp/softdrink/products/" target="_top">ソフトドリンク一覧</a></li>
+<li class="sub_ft_nav_03"><a href="http://www.suntory.co.jp/softdrink/company/" target="_top">企業情報</a></li>
+<li class="sub_ft_nav_04"><a href="http://www.suntory.co.jp/softdrink/ir/" target="_top">株主・投資家情報</a></li>
+</ul>
+</div></div><!--/suntoryPcSubCommonFt-->
+
+<div id="suntorySpSubCommonFt">
+</div><!--/suntorySpSubCommonFt-->
+</div><!--/suntorySubCommonFooter-->

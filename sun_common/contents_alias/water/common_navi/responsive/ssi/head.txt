@@ -1,0 +1,3 @@
+<link href="//www.suntory.co.jp/sun_common/contents_alias/water/common_navi/responsive/css/common_navi_pc.css" rel="stylesheet">
+<link href="//www.suntory.co.jp/sun_common/contents_alias/water/common_navi/responsive/css/common_navi_sp.css" rel="stylesheet" media="screen and (max-width:767px)">
+<script src="//www.suntory.co.jp/sun_common/contents_alias/water/common_navi/responsive/js/common_navi.js"></script>

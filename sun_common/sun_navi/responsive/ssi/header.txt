@@ -1,0 +1,2 @@
+<script src="//www.suntory.co.jp/sun_common/contents_alias/special_msg/special_msg_for-ie.js"></script>	
+<!--複製改変移植使用禁止--><div id="suntoryCommonHeader"><script src="/sun_common/sun_navi/responsive/js/header.js" charset="UTF-8"></script></div><!--/複製改変移植使用禁止-->
